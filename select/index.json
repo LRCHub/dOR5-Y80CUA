@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アポロドロス",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T13:17:23.918064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アポロドロス - Apollodorus",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_アポロドロス_-_Apollodorus_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アポロドロス",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_アポロドロス_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アポロドロス - Apollodorus",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_アポロドロス_-_Apollodorus_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アポロドロス",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_アポロドロス_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
